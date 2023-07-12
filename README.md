@@ -1,4 +1,4 @@
-# Bloc 6: Maint'terprète
+# Bloc 6: Main'terprète
 
 ## Link
 Web application: https://mainterprete.herokuapp.com
