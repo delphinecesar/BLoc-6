@@ -1,5 +1,9 @@
 # Bloc 6: Main'Terprète
 
+## Certification information
+* Email address: delphinecesar@gmail.com
+* Video presentation: https://share.vidyard.com/watch/A5bGP6tmv99hfqjE3zBrmy
+
 ## Link
 Web application: https://mainterprete.herokuapp.com
 
@@ -21,8 +25,3 @@ The application translates the French sign language from videos to simplifiy the
 J. Fink, B. Frénay, L. Meurant and A. Cleve, LSFB-CONT and LSFB-ISOL: Two New Datasets for Vision-Based Sign Language Recognition, 2021 International Joint Conference on Neural Networks (IJCNN), Shenzhen, China, 2021, pp. 1-8.
 
 Subramanian, B., Olimov, B., Naik, S.M. et al. An integrated mediapipe-optimized GRU model for Indian sign language recognition. Sci Rep 12, 11964 (2022).
-
-
-## Certification information
-* Email address: delphinecesar@gmail.com
-* Video presentation: https://share.vidyard.com/watch/A5bGP6tmv99hfqjE3zBrmy
