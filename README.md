@@ -25,4 +25,4 @@ Subramanian, B., Olimov, B., Naik, S.M. et al. An integrated mediapipe-optimized
 
 ## Certification information
 * Email address: delphinecesar@gmail.com
-* Video presentation:
+* Video presentation: https://share.vidyard.com/watch/A5bGP6tmv99hfqjE3zBrmy
